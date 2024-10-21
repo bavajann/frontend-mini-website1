@@ -1,4 +1,4 @@
-/* Login.css */
+
 
 .login-container {
     display: flex;
@@ -11,7 +11,7 @@
   }
   
   form {
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     padding: 40px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -27,7 +27,7 @@
   
   input {
     width: 100%;
-    padding: 12px;
+    padding: 12px 10px;
     margin: 10px 0;
     border: 1px solid #ccc;
     border-radius: 4px;
@@ -52,7 +52,7 @@
   }
   
   button:hover {
-    background-color: #0056b3;
+    background-color: #0057b3;
   }
   
   p {
